@@ -7,3 +7,6 @@ Shradha Khapra
 
 # Student
 Delta Student
+
+# class
+Btech
